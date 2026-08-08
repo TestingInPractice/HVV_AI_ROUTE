@@ -20,5 +20,6 @@ description: Мои идеи и шаги. Минималистичный циф�
 
 ## Стартовые заметки
 
+- [[ideas/opencode-agents-plan|План: вникание в агенты OpenCode]]
 - [[ideas/example-idea|Пример идеи]]
 - [[steps/example-step|Пример шага]]
